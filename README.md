@@ -1,1 +1,0 @@
-# K-nyvt-r-mysql
